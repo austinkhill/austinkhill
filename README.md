@@ -1,6 +1,6 @@
 ### Hi! I'm Austin Hill
 
-<img src="./austinkhill.png" height="150">
+<img src="https://github.com/austinkhill/austinkhill/blob/main/austinkhill_bitmoji.png" height="150">
 
 ## I'm a developer, learner, and teacher. 
 
